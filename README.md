@@ -1,2 +1,2 @@
 # CareerMitra
-AI-Based Career Guidance and Mentor System Using Machine Learning
+AI-Based Career Guidance Mentor  Using Machine Learning
